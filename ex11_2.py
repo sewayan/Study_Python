@@ -1,16 +1,15 @@
 
 
-
-
 print "Your height in metric system?",
 height = raw_input()
 
 print "Your weight in metric system?",
 weight = raw_input()
 
-height = ({} * 0.35 .format(height))
+    #take user input and convert to imperial
+height = int(raw_input())* 0.35
 
-weight = ({} * 2 .format(weight))
+weight = int(raw_input())* 2
 
 
 
