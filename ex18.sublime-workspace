@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"line",
+				"line2"
+			],
+			[
+				"file",
+				"file_again"
+			],
+			[
+				"user",
+				"user_status"
+			],
+			[
+				"weig",
+				"weight_imp"
+			],
+			[
+				"height",
+				"height_imp"
+			],
+			[
+				"heig",
+				"height_feet"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"div",
+				"divelement2"
+			],
+			[
+				"dive",
+				"divelement1"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"colu",
+				"column-count"
+			],
+			[
+				"h",
+				"h7"
+			],
+			[
+				"bored",
+				"border-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"si",
+				"box-sizing"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"siz",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"ST: Settings – User"
+			],
+			[
+				"setup",
+				"ST: Setup Connections"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sebastianwayan/Desktop/Codes/Maya Kurokuchi/Maya Kurokuchi.html",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex18.py",
+		"/ex17.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex17.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/target_test.txt",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex16.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/supamanbadman.txt",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex15.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex14_1.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex15_sample.txt",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex11_2.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex11.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex11_2",
+		"/Users/sebastianwayan/Desktop/Codes/Maya Kurokuchi/Maya_style.css",
+		"/Users/sebastianwayan/Desktop/Codes/Maya Kurokuchi/Maya Kurokuchi.js",
+		"/Users/sebastianwayan/Desktop/Codes/Maya Kurokuchi/README.md",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex5.py",
+		"/Users/sebastianwayan/Desktop/Codes/python/Study/ex3.py",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Tiny House html/tiny_house_style.css",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Tiny House html/Test_Tiny House.html",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Tiny House html/style.css",
+		"/Users/sebastianwayan/Desktop/Codes/Study.sql",
+		"/Users/sebastianwayan/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/sebastianwayan/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/sebastianwayan/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Tiny House html/Tiny House.js",
+		"/Users/sebastianwayan/Library/Application Support/Sublime Text 3/Packages/User/SQLTools.sublime-settings",
+		"/Users/sebastianwayan/Library/Application Support/Sublime Text 3/Packages/SQLTools/SQLTools.sublime-settings",
+		"/Users/sebastianwayan/Library/Application Support/Sublime Text 3/Packages/User/SQLToolsConnections.sublime-settings",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Tiny House html/A quick technical overview.html",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Tiny House html/Declutter your life.html",
+		"/Users/sebastianwayan/Desktop/Codes/Copy_Pheminifc Codes/Copy_Pheminific",
+		"/Users/sebastianwayan/Desktop/Codes/Style.css",
+		"/Users/sebastianwayan/Desktop/Codes/Test Website 1.html",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Hawaii html/style.css",
+		"/Users/sebastianwayan/Desktop/Codes/Test_Hawaii html/Test_sublime_html.html",
+		"/Users/sebastianwayan/Desktop/Codes/Copy_Pheminifc Codes/Copy_Pheminific~",
+		"/Users/sebastianwayan/Desktop/Codes/Test Website 1.html~"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"position",
+			"tumblr",
+			"<body>",
+			"<p>",
+			";",
+			"classicmodels",
+			"SW_MySQL_3306",
+			"og:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ex18.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
