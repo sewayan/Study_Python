@@ -1,6 +1,6 @@
 
 	#write in one line with ';' as seperation -> ',' = error
-					# module/script/library for 'exist - boolean'
+					# module/script/library for 'exists - boolean'
 from sys import argv; from os.path import exists
 
 	
@@ -9,6 +9,8 @@ script, from_file, to_file = argv
 print "Copying from %s to %s" % (from_file, to_file)
 
 	# write this in one line -> seperate with ';'
+	# opens file defined by user -> data is assigned to 'in_file'
+	# in_file is read and becomes 'indata'
 in_file = open(from_file); indata = in_file.read()
 	
 

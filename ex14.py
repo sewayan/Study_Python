@@ -2,7 +2,7 @@
 from sys import argv
 
 script, user_name = argv
-    # displays ">" when user input on command line
+    # displays ">"-prompt when user input on command line
 prompt = '>'
 
 print "Hi %s, I'm the %s script" % (user_name, script)

@@ -1,4 +1,5 @@
-
+	#'import'-> addding features to script
+	# -> argv = argument variable
 from sys import argv
 
 name = raw_input('Name?')

@@ -9,7 +9,7 @@ print "If you don't want that, hit CONTROL-C."
 
 print "If you do want that, hit ENTER"
 
-	#displays "?"in a seperate line
+	#displays "?".prompt in next line
 raw_input("?")
 
 print "Opening the file..."

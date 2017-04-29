@@ -1,6 +1,6 @@
 # var in functions are not connected to var in script
 
-	# name of the function(variables-> what the funct does)
+	# name of the function(argument -> what the funct does)
 	#-> counting cheese and counting crackers;
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	#display the counted cheese
@@ -8,7 +8,7 @@ def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	#display the counted crackers
 	print "You have %d boxes of crackers!" % boxes_of_crackers
 	#text to be displayed, \n -> creating new line
-	print "DUUUDe, that's enough for a partaay"
+	print "DUUUDE, that's enough for a partaay"
 	print "Get a blanket. \n"
 
 	#function is displayed like above 4 times

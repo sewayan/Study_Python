@@ -28,7 +28,7 @@ Alright, so you said %r about liking me.
 You live in %r. Not sure where that is.
 And you have a %r computer.
 Also you claim you have this number of friends %r...?!
-Liar, you're a lonley wanker!
+Liar, you're a loneley wanker!
 """ % (likes, lives, computer, friends)
 
 #When you run this, remember

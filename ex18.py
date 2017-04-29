@@ -1,10 +1,11 @@
 #Introduction to ' Functions'-> mini-scripts/tiny commands
 
 #like the scripts with 'argv'
-# def -> 'Define'Function, name_of_function(command e.g. *args)
+# def -> 'Define'Function, name_of_function(arguments -> e.g. *args)
 # ':' (colon) needed to end line
 def print_two (*args):
 	#unpacks the arguments, same as scripts e.g.'argv'
+	# -> defining func'args' as var'arg1, arg2'
 	arg1, arg2 = args
 	# display result
 	print "arg1: %r, arg: %r" % (arg1, arg2)

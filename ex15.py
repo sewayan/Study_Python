@@ -8,7 +8,7 @@ script, filename = argv
 txt = open(filename)
 	#txt = raw_input("> ") -> User input req.; error when command 'txt.read'
 
-	# msg + conten of txt file
+	# msg + content of txt file
 print "Here's your file %r:" % filename
 
 	# "txt->"calling file defined above, ".read"-> command/function/method
