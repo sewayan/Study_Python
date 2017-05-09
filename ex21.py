@@ -35,7 +35,9 @@ print "Age: %d, Height: %d, Weight: %d, IQ: %d" % (age, height, weight, iq)
 #puzzle --- second part of program ---
 
 print "Here is a puzzle"
+	# ',' shows as '+' on command line
 
+#-1105 <- 35 (+)	-11086	<- 74 - 11160 <- 180 + 62 <- 125/2
 what = add(age, subtract(height, multiply(weight, divide(iq, 2))))
 
 print "That becomes: ", what, "Can you do it by hand?"

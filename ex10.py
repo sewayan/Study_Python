@@ -4,7 +4,7 @@ tabby_cat = "\tI'am tabbed in."
 persian_cat = "I'm split\non a line."
     # displays-> I'm \ a \ cat
 backslash_cat = "I'm \\ a \\ cat."
-    # 'Boooyah' displayed in next line below
+    # 'Boooyah' displayed below, after line-break
 realest = "100 %\nBoooyah"
 
     # creates a tab, '*' -> displayed in string
