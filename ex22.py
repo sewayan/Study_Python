@@ -1,0 +1,1 @@
+# recap previous exercises, make lists of learned func, characters etc.
