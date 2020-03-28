@@ -1,4 +1,5 @@
-
+# list that contains the command-line arguments passed to the script
+# e.g. you could count the arguments -> len(sys.argv)
 from sys import argv
 
 script, filename = argv

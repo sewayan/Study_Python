@@ -20,8 +20,8 @@ I'll do a list
  # %s -> I luuuv them naptime, keepin it 100 %
 fat_cat_fatso = "I luuuv them naptime, keepin it %s" % realest
 
-print tabby_cat
-print persian_cat
-print backslash_cat
-print fat_cat
-print fat_cat_fatso
+	print tabby_cat
+	print persian_cat
+	print backslash_cat
+	print fat_cat
+	print fat_cat_fatso

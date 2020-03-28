@@ -4,7 +4,7 @@
 	#-> counting cheese and counting crackers;
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	#display the counted cheese
-	print "You have %d cheeses!" % cheese_count
+	print ("You have %d cheeses!") % cheese_count
 	#display the counted crackers
 	print "You have %d boxes of crackers!" % boxes_of_crackers
 	#text to be displayed, \n -> creating new line

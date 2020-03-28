@@ -16,7 +16,7 @@ def print_two (*args):
 def print_two_again(arg1, arg2):
 	print "arg1: %r, arg: %r" % (arg1, arg2)
 
-#this jsut takes one argument else same as 'print_two_again'
+#this jsut takes one argument, else same as 'print_two_again'
 def print_one(arg1):
 	print "arg1: %r" % arg1
 
@@ -28,4 +28,3 @@ print_two("Sebastian", "Wayan")
 print_two_again("Sebastian", "Wayan")
 print_one("First!")
 print_none()
-

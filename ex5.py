@@ -16,7 +16,7 @@ print "He's %d cm tall." % height # %d formatter for integer
 print "He's %d kg heavy" % weight
 print "Good weight"
 print "He's got %s eyes and %s hair"  % (eyes, hair) #mult. var in brackets
-print "His teeth are usually %s depending on the amount of coffee" % teeth
+print "His teeth are usually %s depending on the amount of coffee he is drinking" % teeth
 
 print "If I add %d, %d, and %d I get %d." % (
 age, height, weight, age + height + weight)

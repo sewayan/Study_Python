@@ -5,6 +5,7 @@ def add(a, b):
 	return a + b
 
 # 'raw_input'does not work-> can't enter "floating point"-> fixed str or int needed
+# 'float'-> int can be input by user,no str possible
 a = float(raw_input('>'))
 b = float(raw_input('>'))
 

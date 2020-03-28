@@ -6,7 +6,7 @@ print "Roosters", 100- 25* 3% 4 #
 print "Now I will count the eggs:"
 
 print 3.0+2.0+1.0-5.0+4.0%2.0-1.0/4.0+6.0 #no space between numbers and symbols needed; % = modulus
-# use "floating point" to mad calculations accurate
+# use "floating point" to make calculations accurate
 
 print "Is it true that 3 + 2 < 5 - 2?" #5 not smaller than 3
 
