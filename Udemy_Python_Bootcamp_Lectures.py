@@ -83,3 +83,60 @@ students_casted_list = i.split(", ")
 
 print(students_casted_list)
 print(len(students_casted_list))
+
+#-----------------
+# Control structures (if,else)| Comparison| Loops
+
+# Lecture 23| Control structures
+
+n = 80
+
+if n < 51:
+    print("Die Zahl " + str(n) +" ist kleiner als 51")
+else:
+    print("Die Zahl " + str(n) + " ist größer als 51")
+
+#-----------------
+
+# Lecture 24 | Comparisons
+# Operators for comparisons: "<", ">", "==", "<=", ">="
+
+print(6 < 100) # gives back a boolean
+
+n1 = 32423545
+n2 = 123
+
+result = n1 * n2
+
+if result > 100000:
+    print("Das Ergebnis" + str(n) + " ist größer als 100.000")
+else:
+    print("Nö, is kleiner")
+
+#-----
+# chaining comparisons (booleans)
+
+age = 45
+
+if age >= 30 and age <= 39:
+    print("This person is in his/her 30's and " + str(age) + " years old")
+else:
+    if age < 30:
+        print("Roaring twenties")
+    else:
+        print("Golden Age")
+
+# ---- another Example -----
+country = "USA"
+age = 20
+
+if (country == "USA" and age >= 21) or (country != "USA" and age >= 18): #beide Seite der Bedingunge getrennt durch "and" müssen "True" sein
+    print("Is legally allowed to consume alcohol")
+else:
+    print("Is not allowed to consume alcohol")
+
+
+
+
+
+
