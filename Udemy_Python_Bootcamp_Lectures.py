@@ -135,8 +135,40 @@ if (country == "USA" and age >= 21) or (country != "USA" and age >= 18): #beide 
 else:
     print("Is not allowed to consume alcohol")
 
+#-------------------
+# Lecture 28 | Comparisons and lists
+
+if "student2" in students:
+    
+    print("Monikkaaaaa")
+else:
+    print("AAAAYYYEEE")
+
+#-----------------
+# Lecture 29| "not" operator
+
+annual_income = 120000
+threshold = 100000
+
+if not annual_income >= threshold:
+    print("Your income is below the threshold of " + str(threshold) + " bucks per year. You are not financially wealthy")
+else:
+    print("Your income is above the threshold of " + str(threshold) + " bucks per anno. Congratz, you win at capitalism")
+
+#--------another Example------
+
+names = ["Ezo", "Lena"]
+
+if "Moritz" not in names:
+    print("Moritz is nich hier")
+else:
+    print("Moritz is hier")
 
 
+if not "Moritz" in names: # Unterschied lediglich in der Berechnung der Query; funktioniert auch. Syntax "unschön"
+    print("Moritz is nich hier")
+else:
+    print("Moritz is hier")
 
 
 
