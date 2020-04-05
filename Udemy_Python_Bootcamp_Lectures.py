@@ -169,6 +169,36 @@ if not "Moritz" in names: # Unterschied lediglich in der Berechnung der Query; f
     print("Moritz is nich hier")
 else:
     print("Moritz is hier")
+    
+#----------------------
+# Lecture 32| elif - Operator
+currency = "¥"
+
+def multi_if(currency):
+    #multiple conditions and outcomes
+    #funktioniert noch nicht wie erwartet
+    if currency == "€" or "Euro":
+        print("Euro")
+    else:
+        if currency == "$" or "USD":
+            print("US- Dollar")
+        else:
+            if currency == "¥" or "Yen":
+                print("Japanischer Yen")
+
+# multi_if(currency) 
+            
+
+if currency == "€":
+    print("Euro")
+else:
+        if currency == "$":
+            print("US- Dollar")
+        else:
+                if currency == "¥":
+                    print("Japanischer Yen")
+
+
 
 
 
