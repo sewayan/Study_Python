@@ -172,7 +172,7 @@ else:
     
 #----------------------
 # Lecture 32| elif - Operator
-currency = "¥"
+currency = "HKD"
 
 def multi_if(currency):
     #multiple conditions and outcomes
@@ -198,7 +198,37 @@ else:
                 if currency == "¥":
                     print("Japanischer Yen")
 
+# same example with "elif"
+if currency == "$":
+    print("US-Dollar")
+elif currency == "€":
+    print("Euro")
+elif currency == "¥":
+    print("Yen")
+else:
+    print ("Currency not in recognized")    
+    
+#-----------------
+# Lecture 33 | while -loop
+# "Bereich wird solange wiederhol werden soll, solange eine Bedingung erfüllt ist. Codeblock wird mehfrfach ausgeführt
 
+counter = 0
 
+while counter < 10:
+    print(counter)
+    print("and another one")
+    counter = counter + 1 #w/o counter +1 -> endless looping
 
+#-----------------
+# Lecture 34 | for - loop
+# for-loops are best used if "range" of the loop is known
+
+for i in range(0,10): # not a "real" list, but object that acts like a list
+    print(i)
+    print("DJ Khaled")
+
+liste = [5,6,8]
+
+for i in liste:
+    print(i)
 
