@@ -231,4 +231,34 @@ liste = [5,6,8]
 
 for i in liste:
     print(i)
+#-------------------
+# Lecture 37| break & continue
+for i in range(0,10):
+    if i == 3:
+        continue #means in this case that i is skipped when == 3, this loop cycle is skipped
+    print(i) #prints number range except '3'
+
+
+for i in range(0,1000):
+    if i == 70:
+        break #stops loop when i == 70
+    print(i) #prints only to '69'
+
+# Example: I want to stop adding when summe of liste > 400
+list = [1,4,6,3,7,9,563]
+
+summe = 0
+
+for element in list:
+    summe = summe + element # adds numbers 1; 1+4; 5+6; etc.
+    if summe > 400:
+        break # breaks BEFORE addition would be > than 400
+    print(summe)
+    
+summe = summe + 1
+
+
+
+
+
 
