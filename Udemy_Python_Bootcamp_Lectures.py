@@ -245,8 +245,8 @@ for i in range(0,1000):
     if i == 70:
         break #stops loop when i == 70
     print(i) #prints only to '69'
-
 # Example: I want to stop adding when summe of liste > 400
+
 list = [1,4,6,3,7,9,563]
 
 summe = 0
