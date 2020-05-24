@@ -6,6 +6,8 @@ Created on Sat Mar 28 22:45:08 2020
 @author: sebastianwayan
 """
 
+import random
+
 # Part: 2 | Lecture: 8 "Strings"
 
 name = "Sebo"
@@ -256,6 +258,40 @@ for element in list:
     print(summe)
     
 summe = summe + 1
+
+#-------------------
+# Exkurs Trump-Twitter-Bot
+
+print(random.randint(0, 400)) #generates random e.g. int in certain range
+
+#lists of tweet "parts"
+
+part1 = ["Putin","Hillary","Obama","Fake News","Mexico", "Arnold Schwarzenegger", "The Democrats"]
+part2 = ["no talent", "on the way down", "really poor numbers", "nasty tone", "looking like a fool", "bad hombre"]
+part3 = ["got destroyed by my ratings", "rigged election", "had much smaller crowd", "will pay for the wall"]
+part4 = ["So Sad", "Apologize", "So true", "Media won't report", "Big Trounble", "Fantastic Job", "Stay tuned"]
+part5 = ["#cofeve", "#stablegenius"]
+
+# warp lists of parts into list
+
+best_words = [part1, part2, part3, part4, part5]
+
+print(best_words[4]) #just checking different parts of the list
+print(len(part1)) #checking the length of a list to know the range for the random()
+
+# build the tweet generator
+
+sentence = []
+
+for part in best_words:
+    r = random.randint(0, len(part) -1)# "select an element between e.g. 0 - 6, (length of list part1 = 7 -> 7-1 = 6 , start counting from zero"
+    #print(part[r])
+    sentence.append(part[r])
+    print(" ".join(sentence) + "!11!!eins!elf")
+    
+#-------------------
+
+
 
 
 
