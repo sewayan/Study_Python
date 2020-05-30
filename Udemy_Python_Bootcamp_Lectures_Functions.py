@@ -47,7 +47,9 @@ def trigger_funct(): #function that triggers other pre-defined functions
 
 #------------------
 
-def maximum(a, b): #"return" = returns value, but is needed to be assigend to a variable and e.g. used further, printed etc.
+def maximum(a, b): 
+    """return" = returns value, but is needed to be assigend to a variable
+    and e.g. used further, printed etc."""
     if a > b:
         return b
     else:
@@ -56,3 +58,31 @@ def maximum(a, b): #"return" = returns value, but is needed to be assigend to a 
 
 result = maximum(1234, 65485432)
 print(result)
+#-------------------------
+# Function "variable.function"
+# there are function that are specifically executable on/with functions
+
+list = [1, 2, 4]
+
+list.append(4)
+
+print(list)
+
+text = ("Hallo,Welt")
+
+text.split(",")
+
+print(text)
+#-------------------------
+
+
+
+
+
+
+
+
+
+
+
+
