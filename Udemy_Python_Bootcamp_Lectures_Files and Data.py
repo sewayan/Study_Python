@@ -12,7 +12,10 @@ Created on Sat May 30 20:27:48 2020
 How to work with files
 
 """
+filelocation = r"/Users/sebastianwayan/Desktop/test_csv.csv"
 
+
+#---------------
 # write a text file
 
 file = open("writes_testfile.txt", "w") # w == write-mode
@@ -32,5 +35,13 @@ with open("writes_testfile.txt", "r") as text:
         print(line)
 # Datei ist hier wieder geschlossen
 
+#--------------------
+#open csv file
 
- 
+with open(filelocation)as file:
+    for i in file:
+        # print(i)
+        # print(line.strip().split(";"))
+        data = line.strip().split(";")
+        print(data)
+    
